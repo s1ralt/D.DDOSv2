@@ -1,6 +1,6 @@
 <p align="center"><img src="./screenshot/logo.ico" width="150px" height="150px" alt="aventium softworks"></p>
 
-<h1 align="center">MHDDoS - DDoS Attack Script With 36 Methods</h1>
+<h1 align="center">DYL4NTOOL - DDoS Attack Script With 50 Methods</h1>
 
 <em><h5 align="center">(Code Lang - Python 3)</h5></em>
 
@@ -64,7 +64,7 @@
 
 ## Downloads
 
-You can download it from [GitHub Releases](https://github.com/MHProDev/MHDDoS/releases)
+You can download it from [GitHub Releases](https://github.com/s1ralt/DYL4NTOOL/releases)
 
 ### Getting Started
 
@@ -92,8 +92,8 @@ You can download it from [GitHub Releases](https://github.com/MHProDev/MHDDoS/re
 **Clone and Install Script**
 
 ```console
-git clone https://github.com/MHProDev/MHDDoS.git
-cd MHDDoS
+git clone https://github.com/s1ralt/DYL4NTOOL.git
+cd DYL4NTOOL
 pip3 install -r requirements.txt
 ```
 
@@ -119,10 +119,8 @@ python3 start.py help
 ```
 
 [python3]: https://python.org 'Python3'
-[github]: https://github.com/MHProDev/MHDDoS/issues 'GitHub'
+[github]: https://github.com/s1ralt/DYL4NTOOL/issues 'GitHub'
 
 ---
 
-**💰 Donation Links:**
-* https://idpay.ir/mh-prodev
 
