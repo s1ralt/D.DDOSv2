@@ -796,7 +796,6 @@ class ToolsConsole:
 
     @staticmethod
     def usage():                                                                                                             
-		"""
         print((DDDDDDDDDDDDD                DDDDDDDDDDDDD        DDDDDDDDDDDDD             OOOOOOOOO        SSSSSSSSSSSSSSS 
 D::::::::::::DDD             D::::::::::::DDD     D::::::::::::DDD        OO:::::::::OO    SS:::::::::::::::S
 D:::::::::::::::DD           D:::::::::::::::DD   D:::::::::::::::DD    OO:::::::::::::OO S:::::SSSSSS::::::S
