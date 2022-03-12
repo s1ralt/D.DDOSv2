@@ -90,8 +90,8 @@ You can download it from [GitHub Releases](https://github.com/s1ralt/DYL4NTOOL/r
 **Clone and Install Script**
 
 ```console
-git clone https://github.com/s1ralt/DYL4NTOOL.git
-cd DYL4NTOOL
+git clone https://github.com/s1ralt/D.DDOSv2.git
+cd D.DDOSv2
 pip3 install -r requirements.txt
 ```
 
