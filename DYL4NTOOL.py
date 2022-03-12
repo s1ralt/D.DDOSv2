@@ -796,7 +796,7 @@ class ToolsConsole:
 
     @staticmethod
     def usage():                                                                                                             
-        print((DDDDDDDDDDDDD                DDDDDDDDDDDDD        DDDDDDDDDDDDD             OOOOOOOOO        SSSSSSSSSSSSSSS 
+   print('DDDDDDDDDDDDD                DDDDDDDDDDDDD        DDDDDDDDDDDDD             OOOOOOOOO        SSSSSSSSSSSSSSS 
 D::::::::::::DDD             D::::::::::::DDD     D::::::::::::DDD        OO:::::::::OO    SS:::::::::::::::S
 D:::::::::::::::DD           D:::::::::::::::DD   D:::::::::::::::DD    OO:::::::::::::OO S:::::SSSSSS::::::S
 DDD:::::DDDDD:::::D          DDD:::::DDDDD:::::D  DDD:::::DDDDD:::::D  O:::::::OOO:::::::OS:::::S     SSSSSSS
@@ -811,7 +811,7 @@ DDD:::::DDDDD:::::D          DDD:::::DDDDD:::::D  DDD:::::DDDDD:::::D  O:::::::O
 DDD:::::DDDDD:::::D          DDD:::::DDDDD:::::D  DDD:::::DDDDD:::::D  O:::::::OOO:::::::OSSSSSSS     S:::::S
 D:::::::::::::::DD    ...... D:::::::::::::::DD   D:::::::::::::::DD    OO:::::::::::::OO S::::::SSSSSS:::::S
 D::::::::::::DDD      .::::. D::::::::::::DDD     D::::::::::::DDD        OO:::::::::OO   S:::::::::::::::SS 
-DDDDDDDDDDDDD         ...... DDDDDDDDDDDDD        DDDDDDDDDDDDD             OOOOOOOOO      SSSSSSSSSSSSSSS  '* Coded By DYL4N For Better Stresser\n'
+DDDDDDDDDDDDD         ...... DDDDDDDDDDDDD        DDDDDDDDDDDDD             OOOOOOOOO      SSSSSSSSSSSSSSS') * Coded By DYL4N For Better Stresser\n'
                'Note: If the Proxy list is empty, the attack will run without proxies\n'
                '      If the Proxy file doesn\'t exist, the script will download proxies and check them.\n'
                ' Layer7: python3 %s <method> <url> <socks_type5.4.1> <threads> <proxylist> <rpc> <duration>\n'
