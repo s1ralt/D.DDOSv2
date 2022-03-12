@@ -58,7 +58,7 @@
 
 #### Issues ? 
  * Telegram : https://t.me/+Y4ELPUNl1rFhOGMx
- * Discord : ⋆ D#0552
+ * Discord : DYL4N#0552
  * [GitHub][github]
 #### Like the project? Leave a star on the repository!
 
