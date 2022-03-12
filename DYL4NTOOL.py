@@ -793,6 +793,26 @@ class ToolsConsole:
         for proc in process_iter():
             if proc.name() == "python.exe":
                 proc.kill()
+		
+def graphics(self):
+		banner="""                                                                                                                
+DDDDDDDDDDDDD                DDDDDDDDDDDDD        DDDDDDDDDDDDD             OOOOOOOOO        SSSSSSSSSSSSSSS 
+D::::::::::::DDD             D::::::::::::DDD     D::::::::::::DDD        OO:::::::::OO    SS:::::::::::::::S
+D:::::::::::::::DD           D:::::::::::::::DD   D:::::::::::::::DD    OO:::::::::::::OO S:::::SSSSSS::::::S
+DDD:::::DDDDD:::::D          DDD:::::DDDDD:::::D  DDD:::::DDDDD:::::D  O:::::::OOO:::::::OS:::::S     SSSSSSS
+  D:::::D    D:::::D           D:::::D    D:::::D   D:::::D    D:::::D O::::::O   O::::::OS:::::S            
+  D:::::D     D:::::D          D:::::D     D:::::D  D:::::D     D:::::DO:::::O     O:::::OS:::::S            
+  D:::::D     D:::::D          D:::::D     D:::::D  D:::::D     D:::::DO:::::O     O:::::O S::::SSSS         
+  D:::::D     D:::::D          D:::::D     D:::::D  D:::::D     D:::::DO:::::O     O:::::O  SS::::::SSSSS    
+  D:::::D     D:::::D          D:::::D     D:::::D  D:::::D     D:::::DO:::::O     O:::::O    SSS::::::::SS  
+  D:::::D     D:::::D          D:::::D     D:::::D  D:::::D     D:::::DO:::::O     O:::::O       SSSSSS::::S 
+  D:::::D     D:::::D          D:::::D     D:::::D  D:::::D     D:::::DO:::::O     O:::::O            S:::::S
+  D:::::D    D:::::D           D:::::D    D:::::D   D:::::D    D:::::D O::::::O   O::::::O            S:::::S
+DDD:::::DDDDD:::::D          DDD:::::DDDDD:::::D  DDD:::::DDDDD:::::D  O:::::::OOO:::::::OSSSSSSS     S:::::S
+D:::::::::::::::DD    ...... D:::::::::::::::DD   D:::::::::::::::DD    OO:::::::::::::OO S::::::SSSSSS:::::S
+D::::::::::::DDD      .::::. D::::::::::::DDD     D::::::::::::DDD        OO:::::::::OO   S:::::::::::::::SS 
+DDDDDDDDDDDDD         ...... DDDDDDDDDDDDD        DDDDDDDDDDDDD             OOOOOOOOO      SSSSSSSSSSSSSSS   
+		"""
 
     @staticmethod
     def usage():
