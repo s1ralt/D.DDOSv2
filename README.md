@@ -8,7 +8,7 @@
 <p align="center">Please Don't Attack '.gov' and '.ir' Websites :)</p>
 
 <p align="center"><img src="https://media.discordapp.net/attachments/932602851564322836/951630815756972083/9F1126EA-FA32-4FC0-B38C-A30DAFCB070B.png" width="1078" height="433" alt="POWER"></p>
-<p align="center"><img src="https://media.discordapp.net/attachments/932602851564322836/951641085183152139/DYL4N_TOOL.png" width="1078" height="296" alt="SCRIPT"></p>
+<p align="center"><img src="https://media.discordapp.net/attachments/932602851564322836/952054935720190033/ye.png?width=705&height=242" width="1078" height="296" alt="SCRIPT"></p>
 
 ## Features And Methods
 
