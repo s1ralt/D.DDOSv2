@@ -57,7 +57,7 @@
   * 👑 HELP | Show Usage Script
 
 #### Issues ? 
- * Telegram : https://t.me/+Y4ELPUNl1rFhOGMx
+ * Discord : https://discord.gg/AczCTQg7Ht
  * Discord : DYL4N#0552
  * [GitHub][github]
 #### Like the project? Leave a star on the repository!
