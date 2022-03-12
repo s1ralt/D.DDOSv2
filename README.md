@@ -1,6 +1,6 @@
 <p align="center"><img src="./screenshot/logo.ico" width="150px" height="150px" alt="aventium softworks"></p>
 
-<h1 align="center">DYL4NTOOL - DDoS Attack Script With 50 Methods</h1>
+<h1 align="center">D.DDOSv2 - DDoS Attack Script With 50 Methods</h1>
 
 <em><h5 align="center">(Code Lang - Python 3)</h5></em>
 
