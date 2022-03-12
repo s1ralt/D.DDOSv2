@@ -793,8 +793,10 @@ class ToolsConsole:
         for proc in process_iter():
             if proc.name() == "python.exe":
                 proc.kill()
-		
-def graphics(self):
+
+    @staticmethod
+    def usage():
+		def graphics(self):
 		banner="""                                                                                                                
 DDDDDDDDDDDDD                DDDDDDDDDDDDD        DDDDDDDDDDDDD             OOOOOOOOO        SSSSSSSSSSSSSSS 
 D::::::::::::DDD             D::::::::::::DDD     D::::::::::::DDD        OO:::::::::OO    SS:::::::::::::::S
@@ -813,9 +815,6 @@ D:::::::::::::::DD    ...... D:::::::::::::::DD   D:::::::::::::::DD    OO::::::
 D::::::::::::DDD      .::::. D::::::::::::DDD     D::::::::::::DDD        OO:::::::::OO   S:::::::::::::::SS 
 DDDDDDDDDDDDD         ...... DDDDDDDDDDDDD        DDDDDDDDDDDDD             OOOOOOOOO      SSSSSSSSSSSSSSS   
 		"""
-
-    @staticmethod
-    def usage():
         print(('* Coded By DYL4N For Better Stresser\n'
                'Note: If the Proxy list is empty, the attack will run without proxies\n'
                '      If the Proxy file doesn\'t exist, the script will download proxies and check them.\n'
