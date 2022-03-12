@@ -64,7 +64,7 @@
 
 ## Downloads
 
-You can download it from [GitHub Releases](https://github.com/s1ralt/DYL4NTOOL/releases)
+You can download it from [GitHub Releases](https://github.com/s1ralt/D.DDOSv2/releases)
 
 ### Getting Started
 
