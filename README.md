@@ -78,15 +78,13 @@ You can download it from [GitHub Releases](https://github.com/s1ralt/DYL4NTOOL/r
 * scapy
 ---
 
-**Videos**
+**Youtube**
 
-* Aparat: https://www.aparat.com/v/bHcP9
-* YouTube : Coming soon...
+* Youtube : https://www.youtube.com/c/s1ralt
 
-**Toturial**
+**Discord**
 
-* Aprat : https://aparat.com/v/XPn5Z
-* YouTube : https://youtu.be/mZilAOkLKK8
+* Discord : https://discord.gg/AczCTQg7Ht
 ---
 
 **Clone and Install Script**
