@@ -117,7 +117,7 @@ python3 start.py help
 ```
 
 [python3]: https://python.org 'Python3'
-[github]: https://github.com/s1ralt/DYL4NTOOL/issues 'GitHub'
+[github]: https://github.com/s1ralt/D.DDOSv2/issues 'GitHub'
 
 ---
 
