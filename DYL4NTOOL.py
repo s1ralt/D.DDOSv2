@@ -754,7 +754,7 @@ class ToolsConsole:
 
     @staticmethod
     def usage():                                                                                                             
-   print('* Coded By DYL4N#0552 For Better Stresser\n'
+   print('* Coded By DYL4N#0552 For Better Stresser\n')
                'Note: If the Proxy list is empty, the attack will run without proxies\n'
                '      If the Proxy file doesn\'t exist, the script will download proxies and check them.\n'
                ' Layer7: python3 %s <method> <url> <socks_type5.4.1> <threads> <proxylist> <rpc> <duration>\n'
