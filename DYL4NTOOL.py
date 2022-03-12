@@ -796,7 +796,7 @@ class ToolsConsole:
 
     @staticmethod
     def usage():
-		def graphics(self):
+		print((def graphics(self):
 		banner="""                                                                                                                
 DDDDDDDDDDDDD                DDDDDDDDDDDDD        DDDDDDDDDDDDD             OOOOOOOOO        SSSSSSSSSSSSSSS 
 D::::::::::::DDD             D::::::::::::DDD     D::::::::::::DDD        OO:::::::::OO    SS:::::::::::::::S
