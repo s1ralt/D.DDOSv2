@@ -795,8 +795,7 @@ class ToolsConsole:
                 proc.kill()
 
     @staticmethod
-    def usage():
-		banner="""                                                                                                                
+    def usage():                                                                                                             
 DDDDDDDDDDDDD                DDDDDDDDDDDDD        DDDDDDDDDDDDD             OOOOOOOOO        SSSSSSSSSSSSSSS 
 D::::::::::::DDD             D::::::::::::DDD     D::::::::::::DDD        OO:::::::::OO    SS:::::::::::::::S
 D:::::::::::::::DD           D:::::::::::::::DD   D:::::::::::::::DD    OO:::::::::::::OO S:::::SSSSSS::::::S
