@@ -1,11 +1,9 @@
-<p align="center"><img src="./screenshot/logo.ico" width="150px" height="150px" alt="aventium softworks"></p>
-
-<h1 align="center">D.DDOSv2 - DDoS Attack Script With 50 Methods</h1>
+<h1 align="center">D.DDOSv2 - DDoS Attack Script Made By DYL4N#0552</h1>
 
 <em><h5 align="center">(Code Lang - Python 3)</h5></em>
 
 
-<p align="center">Please Don't Attack '.gov' and '.ir' Websites :)</p>
+<p align="center">Plz Star If you like it :)</p>
 
 <p align="center"><img src="https://media.discordapp.net/attachments/932602851564322836/951630815756972083/9F1126EA-FA32-4FC0-B38C-A30DAFCB070B.png" width="1078" height="433" alt="POWER"></p>
 <p align="center"><img src="https://media.discordapp.net/attachments/932602851564322836/952054935720190033/ye.png?width=705&height=242" width="1078" height="296" alt="SCRIPT"></p>
